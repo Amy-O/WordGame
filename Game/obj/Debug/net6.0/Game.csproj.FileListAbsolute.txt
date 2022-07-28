@@ -1,0 +1,15 @@
+/Users/amyoconnor/Projects/C/WordGame/Game/bin/Debug/net6.0/Game
+/Users/amyoconnor/Projects/C/WordGame/Game/bin/Debug/net6.0/Game.deps.json
+/Users/amyoconnor/Projects/C/WordGame/Game/bin/Debug/net6.0/Game.runtimeconfig.json
+/Users/amyoconnor/Projects/C/WordGame/Game/bin/Debug/net6.0/Game.dll
+/Users/amyoconnor/Projects/C/WordGame/Game/bin/Debug/net6.0/Game.pdb
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.csproj.AssemblyReference.cache
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfoInputs.cache
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfo.cs
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.csproj.CoreCompileInputs.cache
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.dll
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/refint/Game.dll
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.pdb
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/Game.genruntimeconfig.cache
+/Users/amyoconnor/Projects/C/WordGame/Game/obj/Debug/net6.0/ref/Game.dll
