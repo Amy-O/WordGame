@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/amyoconnor/.nuget/packages/": {}
+    "/Users/mirandafrudd/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amyoconnor/Projects/C/WordGame/Game/Game.csproj",
+      "projectUniqueName": "/Users/mirandafrudd/Projects/WordGame/Game/Game.csproj",
       "projectName": "Game",
-      "projectPath": "/Users/amyoconnor/Projects/C/WordGame/Game/Game.csproj",
-      "packagesPath": "/Users/amyoconnor/.nuget/packages/",
-      "outputPath": "/Users/amyoconnor/Projects/C/WordGame/Game/obj/",
+      "projectPath": "/Users/mirandafrudd/Projects/WordGame/Game/Game.csproj",
+      "packagesPath": "/Users/mirandafrudd/.nuget/packages/",
+      "outputPath": "/Users/mirandafrudd/Projects/WordGame/Game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/amyoconnor/.nuget/NuGet/NuGet.Config"
+        "/Users/mirandafrudd/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

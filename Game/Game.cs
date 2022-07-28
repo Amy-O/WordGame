@@ -3,9 +3,15 @@ using System.Text;
 namespace Game {
   public class Game
   {
+    // this is the field
     private string _secretWord;
+    private int _counter;
+    private readonly string[] DICTIONARY = {"MAKERS", "CANDIES", "DEVELOPER", "LONDON"};
+
+    // this is the constructor
     public Game(string word) {
       _secretWord = word;
+      _counter = 10;
     }
 
      public string GetWordToGuess() {
@@ -21,6 +27,14 @@ namespace Game {
     return builder.ToString();
     }
 
+    public int GetRemainingAttempts() {
+      return _counter;
+    }
+
+    public string GetRandomWordFromDictionary() {
+      Random rand = new Random();
+      return DICTIONARY[rand.Next(DICTIONARY.Length)];
+    }
 
   }
 }

@@ -9,5 +9,11 @@ namespace Game.Tests {
       Game game = new Game("MAKERS");
       Assert.AreEqual("M_____", game.GetWordToGuess());
     }
+
+    [Test]
+    public void Game_GetRemainingAttempts_ReturnsAttemptsRemaining() {
+      Game game = new Game("MAKERS");
+      Assert.AreEqual(10, game.GetRemainingAttempts());
+    }
   }
 }
